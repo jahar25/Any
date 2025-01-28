@@ -14,3 +14,7 @@ sudo systemctl start jenkins
 sudo systemctl status jenkins
 
 https://github.com/TheEarlOfGray/simpleflaskapp
+
+sudo apt install python3-pip
+pip install -r requirements.txt
+python3 app.py
